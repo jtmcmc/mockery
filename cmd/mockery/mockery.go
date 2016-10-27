@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/vektra/mockery/mockery"
+	"github.com/tehleach/mockery/mockery"
 )
 
 const regexMetadataChars = "\\.+*?()|[]{}^$"
@@ -27,6 +27,7 @@ type Config struct {
 }
 
 func main() {
+	fmt.Println("Fuck you.")
 	config := parseConfigFromArgs(os.Args)
 
 	var recursive bool

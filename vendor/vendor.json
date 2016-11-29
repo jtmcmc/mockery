@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UmqQx5WaaRYwu1vHfHmlulGLTDc=",
+			"path": "golang.org/x/tools/go/loader",
+			"revision": "c060f04f93f57c44284360be78bb323077183645",
+			"revisionTime": "2016-09-21T00:13:43Z"
+		}
+	],
+	"rootPath": "github.com/tehleach/mockery"
+}
